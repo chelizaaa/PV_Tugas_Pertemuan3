@@ -1,0 +1,5 @@
+D:\PV C#\PV_Tugas1.1\PV_Tugas1.1\obj\Debug\PV_Tugas1.1.csprojResolveAssemblyReference.cache
+D:\PV C#\PV_Tugas1.1\PV_Tugas1.1\bin\Debug\PV_Tugas1.1.exe
+D:\PV C#\PV_Tugas1.1\PV_Tugas1.1\bin\Debug\PV_Tugas1.1.pdb
+D:\PV C#\PV_Tugas1.1\PV_Tugas1.1\obj\Debug\PV_Tugas1.1.exe
+D:\PV C#\PV_Tugas1.1\PV_Tugas1.1\obj\Debug\PV_Tugas1.1.pdb

@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Documents\SharpDevelop Projects\PV_Tugas1.2\PV_Tugas1.2\bin\Debug\PV_Tugas1.2.exe
+C:\Users\Lenovo\Documents\SharpDevelop Projects\PV_Tugas1.2\PV_Tugas1.2\bin\Debug\PV_Tugas1.2.pdb
+C:\Users\Lenovo\Documents\SharpDevelop Projects\PV_Tugas1.2\PV_Tugas1.2\obj\Debug\PV_Tugas1.2.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\SharpDevelop Projects\PV_Tugas1.2\PV_Tugas1.2\obj\Debug\PV_Tugas1.2.exe
+C:\Users\Lenovo\Documents\SharpDevelop Projects\PV_Tugas1.2\PV_Tugas1.2\obj\Debug\PV_Tugas1.2.pdb
+D:\PV C#\PV_Tugas1.2\PV_Tugas1.2\bin\Debug\PV_Tugas1.2.exe
+D:\PV C#\PV_Tugas1.2\PV_Tugas1.2\bin\Debug\PV_Tugas1.2.pdb
+D:\PV C#\PV_Tugas1.2\PV_Tugas1.2\obj\Debug\PV_Tugas1.2.csprojResolveAssemblyReference.cache
+D:\PV C#\PV_Tugas1.2\PV_Tugas1.2\obj\Debug\PV_Tugas1.2.exe
+D:\PV C#\PV_Tugas1.2\PV_Tugas1.2\obj\Debug\PV_Tugas1.2.pdb
